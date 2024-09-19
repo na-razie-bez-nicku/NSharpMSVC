@@ -1,0 +1,4 @@
+fun Main(): void
+{
+	Sys.IO.OutLn("Hello, World!");
+}

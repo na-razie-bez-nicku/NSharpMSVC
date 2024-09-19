@@ -1,0 +1,6 @@
+fun Main(): void
+{
+	Sys.IO.Out("What's your name?");
+	str name = Sys.IO.In();
+	Sys.IO.Out("Hello" + name + "!");
+}
